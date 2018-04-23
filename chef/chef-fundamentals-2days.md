@@ -1,32 +1,32 @@
 
-#Chef
+# Chef
 
 Fundamentals -2 days Training   Program 
 ______________________________________________________
 
-###Objective
+### Objective
 
 Objective of this course is to introduce students to what Chef is, make them familiar with the core concepts, Master/Agent and Standalone modes, and help them get started writing Infrastructure as a code. This course also teaches how to integrate Chef  with AWS tools and manage complete lifecycle of cloud infrastructure. 
 
-###Targeted Audience
+### Targeted Audience
 
 This introductory course is targeted for the  devops professionals, experienced sysadmins   who want to understand what Chef is, how it is used, and how to use its primitives to  automate their own  infrastructure.   
 
-###Prerequisites:
+### Prerequisites:
 
 - Basic understanding of linux/unix system concepts
 -	Familiarity with Command Line Interface (CLI)
 -	Familiarity with a Text Editors 
 
 
-###System Requirements
+### System Requirements
 
 Specified in a separate lab setup instructions document.
 
 
 
 
-###Course Outline 
+### Course Outline 
 -	High level overview of Chef, Recipes, Cookbooks, Runlists, Roles, Search
 -	Workstation Setup
 -	Knife Client
