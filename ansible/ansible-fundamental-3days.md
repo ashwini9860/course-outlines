@@ -10,21 +10,21 @@ Type: Workshop
 
 ---------------
 
-###Objective
+### Objective
 
 Objective of this course is to introduce students to what Ansible is, make them familiar with the core concepts, and help them get started writing Infrastructure as a code. 
 
-###Targeted Audience
+### Targeted Audience
 
 This introductory course is targeted for the budding devops professionals, experienced sysadmins and enthusiasts alike  who  are already using ansible, or intend to use it to automate configuration management, system integration and manage scalable infrastructures with ease. 
 
-###Prerequisites
+### Prerequisites
 
 * Basic understanding of linux/unix system concepts
 * Familiarity with Command Line Interface (CLI)
 * Familiarity with a Text Editor
 
-###System Requirements
+### System Requirements
 
 | Hardware | Software |
 | :---------- | :----------- |
@@ -33,7 +33,7 @@ This introductory course is targeted for the budding devops professionals, exper
 | 2 CPU Cores | vagrant |
 | 50 GB Disk Space available |
 
-###Course Outline 
+### Course Outline 
 
 * Introduction to Ansible	
 * Inventorizing your Infrastructure
@@ -53,7 +53,7 @@ This introductory course is targeted for the budding devops professionals, exper
 * Troubleshooting and Best Practices
 
 
-###Daywise Outline
+### Daywise Outline
 
 **Day I**
 
