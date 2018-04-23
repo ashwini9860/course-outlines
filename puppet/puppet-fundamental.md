@@ -7,20 +7,20 @@ Duration: 3days
 
 -----------
  
-###Objective
+### Objective
 Objective of this course is to introduce students to what Puppet is, make them familiar with the core concepts, Master/Agent and Standalone modes, and help them get started writing Infrastructure as a code.  
 
-###Targeted Audience
+### Targeted Audience
 
 This introductory course is targeted for the budding devops professionals, experienced sysadmins and enthusiasts alike  who  are already using puppet, or intend to use it to automate configuration management, system integration and manage scalable infrastructures with ease. 
 
-###Prerequisites:
+### Prerequisites:
 
 *	Basic understanding of linux/unix system concepts
 *	Familiarity with Command Line Interface (CLI)
 *	Familiarity with a Text Editor
 
-###System Requirements
+### System Requirements
 
 | Hardware | Software |
 | :-------- | :-------- |
@@ -31,7 +31,7 @@ This introductory course is targeted for the budding devops professionals, exper
 
 
 
-###Course Outline 
+### Course Outline 
 
 *	Introduction to Puppet	
 *	Setting up Learning Environment	
@@ -126,7 +126,7 @@ This introductory course is targeted for the budding devops professionals, exper
 *	Install and confgure Hiera
 *	Using Hiera inside  manifests
 
-###Example Code Manifests/Modules
+### Example Code Manifests/Modules
 
 *	Nginx Module to Install and Configure a Web Server
 *	NTP Module
