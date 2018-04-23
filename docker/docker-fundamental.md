@@ -3,20 +3,20 @@ Docker  Fundamentals
 
 2 days training program
 
-###Objectives
+### Objectives
 
 This boot camp introduces participants to  docker and its eco system,  help them get started using docker to build,  package  and run their applications inside containers.
  
-###Intended Audience
+### Intended Audience
 This course is intended for budding  developers, qa and ops  professionals alike who are developing applications, writing tests or managing  deployment and intend to progress  their knowledge with the next generation container technologies to expedite the workflow.
  
-###Pre Requisites
+### Pre Requisites
 * Linux/Unix Systems Fundaments
 * Familiarity with Command Line Interface (CLI)
 * Fundamental knowledge of editors on linux (any one of vi/nano/emacs)
 * Familiarity with at least one  scripting/programming language
 
-###Systems Requisites
+### Systems Requisites
 
 These are the prerequisites for each attendee. 
 
@@ -29,7 +29,7 @@ These are the prerequisites for each attendee.
 | | Git for Windows |
 
 
-###Course Outline 
+### Course Outline 
 * Introduction to  Docker and Containers
 *	Setting up Learning Environment 
 *	Getting Familiar with Docker
@@ -43,7 +43,7 @@ These are the prerequisites for each attendee.
 *	Docker Registry
 *	Docker Eco System
 	
-###Detailed Course Outline
+### Detailed Course Outline
 *	Introduction to Containers and Docker
 *	Containers vs Hypervisors
 *	Evolution of Containers
